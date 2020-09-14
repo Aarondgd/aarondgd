@@ -1,4 +1,4 @@
-### I'm Aaron Delgado 🖐. 
+### Hi! I'm Aaron Delgado 💬. 
 
 I was working in startups with different technologies, making MVP apps developed in Elixir, Nodejs and React. Currently I am working at [visitapp](https://visitapp.mx/) as mobile developer.<br>
  
