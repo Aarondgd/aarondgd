@@ -1,6 +1,6 @@
 ### Hi! I'm Aaron Delgado 💬. 
 
-I was working in startups with different technologies, making MVP apps developed in Elixir, Nodejs and React. Currently I am working at [visitapp](https://visitapp.mx/) as mobile developer.<br>
+I was working in startups with different technologies, making MVP apps developed in Rails, Nodejs and React. Currently I am working at [visitapp](https://visitapp.mx/) as mobile developer.<br>
  
 🌱 *Currently Learning*: React-Native and Ruby<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job.<br>
